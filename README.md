@@ -6,4 +6,8 @@ Objective of the game: To make a fun game out of focus level as we train our foc
 
 The devpost link to our hackathon is: https://devpost.com/software/neural-drive
 
-we have attached a video of us playing the game to this repo. It is in output.md
+we have attached a video of us playing the game to this repo. 
+
+Well, I will be linking a youtube video of how the game looks like on the screen. Note: The footage is of a singleplayer game but we can indeed play multiplayer.
+
+https://www.youtube.com/shorts/HXh4owlW1L8
